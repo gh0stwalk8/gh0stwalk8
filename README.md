@@ -20,3 +20,7 @@ Welcome to my lair, brave soul. Here, the lines between chaos and brilliance int
 ## ✨ Notable Trikz (or, the things I’ve broken and rebuilt)
 
 - **[Depleter](https://github.com/hackedapostle/depleter)**: Wipe Everything....
+
+## Keeping Track
+
+![gh0stwalk's Stats](https://github-readme-stats.vercel.app/api?username=gh0stwalk&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
