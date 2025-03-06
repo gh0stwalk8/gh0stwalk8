@@ -23,4 +23,4 @@ Welcome to my lair, brave soul. Here, the lines between chaos and brilliance int
 
 ## Keeping Track
 
-![gh0stwalk's Stats](https://github-readme-stats.vercel.app/api?username=gh0stwalk&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
+![gh0stwalk's Stats](https://github-readme-stats.vercel.app/api?username=gh0stwalk&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
