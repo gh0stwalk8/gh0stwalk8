@@ -9,11 +9,12 @@ Enter if you dare, where tech meets the mystical, and the impossible becomes pos
 
 ## 🔮 Superpowers 
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-5e2a8c?style=flat&logo=typescript&logoColor=white)](https://github.com/gh0stwalk)
-[![React](https://img.shields.io/badge/React-5e2a8c?style=flat&logo=react&logoColor=white)](https://github.com/gh0stwalk)
-[![Node.js](https://img.shields.io/badge/Node.js-5e2a8c?style=flat&logo=node.js&logoColor=white)](https://github.com/gh0stwalk)
-[![Docker](https://img.shields.io/badge/Docker-5e2a8c?style=flat&logo=docker&logoColor=white)](https://github.com/gh0stwalk)
-[![Linux](https://img.shields.io/badge/Linux-5e2a8c?style=flat&logo=linux&logoColor=white)](https://github.com/gh0stwalk)
+[![TypeScript](https://img.shields.io/badge/TypeScript-8e44ad?style=flat&logo=typescript&logoColor=white)](https://github.com/gh0stwalk)
+[![React](https://img.shields.io/badge/React-8e44ad?style=flat&logo=react&logoColor=white)](https://github.com/gh0stwalk)
+[![Node.js](https://img.shields.io/badge/Node.js-8e44ad?style=flat&logo=node.js&logoColor=white)](https://github.com/gh0stwalk)
+[![Docker](https://img.shields.io/badge/Docker-8e44ad?style=flat&logo=docker&logoColor=white)](https://github.com/gh0stwalk)
+[![Linux](https://img.shields.io/badge/Linux-8e44ad?style=flat&logo=linux&logoColor=white)](https://github.com/gh0stwalk)
+
 
 - **Development**: Docker, Kubernetes, WebApps (for when you want to make servers do your bidding)
 - **Databases**: MongoDB, MySQL (I’ve broken my share of SQL queries. Don’t @ me.)
