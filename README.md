@@ -1,7 +1,7 @@
 ## 👾 Greetings
 
 Welcome to my digital sanctum, intrepid traveler.
-In this realm, the boundaries between technology and the arcane are but whispers in the wind. I am Vystrall, not your typical developer. I weave code like a sorcerer casts spells—harnessing the power of the digital ether and the unseen forces that govern both worlds. Here, we forge tools that don’t just function, but elevate the digital experience that harness both powers of light and dark.
+In this realm, the boundaries between technology and the arcane are but whispers in the wind. I am Vystrall aka gh0stwalk, not your typical developer. I weave code like a sorcerer casts spells—harnessing the power of the digital ether and the unseen forces that govern both worlds. Here, we forge tools that don’t just function, but elevate the digital experience that harness both powers of light and dark.
 
 In this space, there are no walls to hold us back, no rules to bind our creativity. Only pure code, powerful algorithms, and a spark of mysticism that transcends the ordinary. Whether you're a coder, a curious mind, or a seeker of innovation, you'll find that every project here is imbued with a touch of magic and a dash of msytism.
 
