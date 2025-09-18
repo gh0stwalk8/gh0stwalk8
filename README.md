@@ -13,10 +13,11 @@ Enter if you dare, where tech meets the mystical, and the impossible becomes pos
 [![React](https://img.shields.io/badge/React-6a1c9c?style=flat&logo=react&logoColor=white)](https://github.com/gh0stwalk)
 [![Node.js](https://img.shields.io/badge/Node.js-6a1c9c?style=flat&logo=node.js&logoColor=white)](https://github.com/gh0stwalk)
 [![Docker](https://img.shields.io/badge/Docker-6a1c9c?style=flat&logo=docker&logoColor=white)](https://github.com/gh0stwalk)
+[![Python](https://img.shields.io/badge/Python-6a1c9c?style=flat&logo=python&logoColor=white)](https://github.com/gh0stwalk)
 [![Linux](https://img.shields.io/badge/Linux-6a1c9c?style=flat&logo=linux&logoColor=white)](https://github.com/gh0stwalk)
 
-- **Development**: Docker, Kubernetes, WebApps (for when you want to make servers do your bidding)
-- **Databases**: MongoDB, MySQL (I’ve broken my share of SQL queries. Don’t @ me.)
+- **Development**: WebApps and Scripts 
+- **Databases**: MySQL, PostgreSQL, Prisma, SupaBase
 - **Version Control**: Git (duh) – the only thing I can trust more than my own judgment
 - **Other**: Networking, Pen Testing, API stuff, exploits, and occasionally causing some trouble.
 
